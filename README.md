@@ -6,8 +6,6 @@ A simple Flutter news app that allows users to browse and read news articles fro
 
 - Browse news articles from different sources.
 - View details of individual news articles.
-- Save favorite articles for later reading.
-- Search for specific news articles.
 
 ## Installation
 
