@@ -55,5 +55,5 @@ The project follows a clean architecture Flutter folder structure with the follo
 
 
 ## Screenshoot
-<img src="screenshots/home.png" alt="Home" width="400">
-<img src="screenshots/detail.png" alt="Detail" width="400">
+<img src="screenshots/home.png" alt="Home" width="200">
+<img src="screenshots/detail.png" alt="Detail" width="200">
