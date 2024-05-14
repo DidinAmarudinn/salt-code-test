@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Ärzte Zeitung",
+        "title": "Sublinguale Therapie verbessert Prognose nach Schlaganfall - Ärzte Zeitung",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFlcnp0ZXplaXR1bmcuZGUvTWVkaXppbi9TdWJsaW5ndWFsZS1UaGVyYXBpZS12ZXJiZXNzZXJ0LVByb2dub3NlLW5hY2gtU2NobGFnYW5mYWxsLTQ0ODI5My5odG1s0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T02:02:31Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Deutschlandfunk",
+        "title": "Drei Mondkrater, ein Mord und eine Sonde - Deutschlandfunk",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRldXRzY2hsYW5kZnVuay5kZS9zdGVybnplaXQtMTMtbWFpLTIwMjQtZHJlaS1tb25ka3JhdGVyLWVpbi1tb3JkLXVuZC1laW5lLXNvbmRlLWRsZi1hZDlhNGRlNi0xMDAuaHRtbNIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T00:05:00Z",
+        "content": null
+      }
+    ]
+  }
